@@ -7,5 +7,5 @@
 - 😄 Pronouns: He/Him  
 - ⚡ Fun fact: I believe in the power of consistent learning  
 - 🧠 Quote I follow: "First step is the beginning of a thousand successes."  
-- 💻 Skilled in: C, C++, Core Java, SQL  
+- 💻 Skilled in: Core Java, SQL, Java DSA , C.  
 - ❤️ I love exploring new technologies and improving my skills every day.
